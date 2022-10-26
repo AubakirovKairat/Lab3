@@ -1,5 +1,5 @@
 # Lab3
 Phyton
 
-![Screenshot](image.png)
+![Screenshot](Image.png)
 
