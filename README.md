@@ -1,3 +1,3 @@
 # Lab3
 Phyton
-![screenshot](screen.png)
+![screenshot](Screen.png)
